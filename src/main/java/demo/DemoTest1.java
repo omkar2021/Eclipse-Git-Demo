@@ -11,4 +11,9 @@ public class DemoTest1 {
 		System.out.println("All is well");
 	}
 
+	@Test
+	public void test1()
+	{
+		System.out.println("New test case added");
+	}
 }
