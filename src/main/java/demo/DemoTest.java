@@ -10,4 +10,11 @@ public class DemoTest
 		System.out.println("hello World");
 	}
 
-}
+	@Test
+	public void test1()
+	{
+		System.out.println("added test1 dated 14-07-2021");
+	}
+	
+} // class DemoTest ends
+ 
